@@ -12,7 +12,7 @@
         I'm mit0za or Ethan, a Software Engineering Student. I like programming and gaming.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=300&size=16&pause=1000&color=F710DF&width=400&lines=I+like+Penguins+and+programming.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=300&size=16&pause=1000&color=F710DF&width=400&lines=I+like+Penguins+and+Programming.">
       <br>
       <b>
         ~ Yours Truly ~
