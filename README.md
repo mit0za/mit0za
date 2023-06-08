@@ -114,6 +114,9 @@
       <!-- Intellij -->
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <code><img src="https://img.icons8.com/?size=512&id=61466&format=png" alt="Intellij" height="40"/></code>
+     <!-- Eclipse -->
+  <a href="https://www.eclipse.org/" target="_blank">
+    <code><img src="https://img.icons8.com/?size=512&id=pcHtLiSbkmzw&format=png" alt="Eclipse" height="40"/></code>
     
   </a>
   </a>
